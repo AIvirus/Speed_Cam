@@ -1,0 +1,7 @@
+Hey there! 🎉 So, imagine this: we're diving into the world of speed estimation analysis. 🚀 How? Well, we're playing around with different object-detection models, and we've got this cool thing called ByteTrack in the mix. 🕵️‍♂️ It's all about tracking multiple objects online. 💻 And guess what? We're using this awesome package called supervision to handle tasks like tracking and annotations. 📦 But wait, there's more! We're also transforming the image so that 3D things can be properly represented in 2D. 🔄 Like on a road, where 2D representations can give us distance.
+
+https://github.com/AIvirus/Speed_Cam/assets/122589853/faf475ce-a19a-4f48-83b2-659866516e37
+
+🛣️ Then, by using the formula speed = distance / time, we can estimate speed. ⏱️ This is just to give you an intuition about the main maths behind the code. 🧠 And as we move forward, we tackle various aspects including Object Detection, Multi-Object Tracking, Filtering Detections with Polygon Zone, understanding the Math Behind Perspective Transformation, implementing Perspective Transformation in Code, delving into the Math Behind Speed Estimation, coding Speed Estimation, and making Visualization Improvements. 📊 All of this brings us closer to our goal. 🎯 Finally, after all these steps, we'll arrive at our Final Results. 🏁 Exciting journey, isn't it?
+
+https://github.com/AIvirus/Speed_Cam/assets/122589853/4652d13a-b94e-4582-84a5-4fbaf686d863
